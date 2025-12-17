@@ -1,4 +1,4 @@
-# 🚀 DevOps Optimizer
+#  DevOps Optimizer
 
 **Production-ready toolkit for Git repository optimization and disk space management.**
 
@@ -6,7 +6,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 
-## 📊 Results
+##  Results
 
 Achieve dramatic improvements in repository performance and storage efficiency:
 
@@ -162,10 +162,6 @@ Built with best practices from:
 
 ---
 
-## ⭐ Star Us!
+##  Star Us!
 
 If this tool helps you, please star the repository to help others discover it!
-
----
-
-**Made with ❤️ by the open source community**
